@@ -169,3 +169,6 @@ cmd
 *.ttf
 responses
 data
+__pycache__/
+*.pth
+*.log
