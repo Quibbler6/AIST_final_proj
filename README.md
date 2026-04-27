@@ -3,7 +3,7 @@
 
 # Dr. GRPO: Improving R1-Zero for Mathematical Reasoning
 
-**AIST Final Project** | Exploring Dr. GRPO reasoning.
+**RL Final Project** | Exploring Dr. GRPO reasoning.
 
 -----
 
@@ -18,7 +18,7 @@ Recommended Environment: `python==3.10`
 pip install vllm==0.8.4 oat-llm==0.1.3.post1
 
 # Install project locally
-git clone https://github.com/Quibbler6/AIST_final_proj.git && cd AIST_final_proj
+git clone https://github.com/Quibbler6/RL_final_proj.git && cd RL_final_proj
 pip install -e .
 ```
 
